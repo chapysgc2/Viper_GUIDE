@@ -1,4 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` que podrías utilizar para explicar cómo agregar las plantillas VIPER a Xcode:
 
 ---
 
